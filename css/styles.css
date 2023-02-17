@@ -1,0 +1,39 @@
+html,
+body {
+    background: #E5E5E5;
+    color:#434455;
+   }
+.list {
+    list-style: none;
+}
+/* основний колір тексту #2E2F42*/
+/* вторинний колір тексту #434455 */
+/* білий #FFFFFF */
+/* акцент #4D5AE5; #404BBF */
+/* вторинні кольори фону background: #2E2F42; background: #F4F4FD; */
+
+.logo > span {
+    color:#4D5AE5
+}
+.logo{
+    color:#2E2F42
+}
+/* Site-nav */
+.site-nav .link{
+    color:#2E2F42
+}
+/* Address */
+.address a {
+color:#434455
+}
+.address .link:hover,.{address .link:focus {
+    color:#00bb09;
+}
+/* Hero */
+.hero-title{
+    color:#FFFFFF
+}
+.section-title{
+    color:#2E2F42
+}
+/* Butoon */
